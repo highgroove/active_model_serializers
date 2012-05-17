@@ -1,4 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/josevalim/active_model_serializers.png)](http://travis-ci.org/josevalim/active_model_serializers)
+[![Dependency Status](https://gemnasium.com/josevalim/active_model_serializers.png)](https://gemnasium.com/josevalim/active_model_serializers)
+
 
 # Purpose
 
